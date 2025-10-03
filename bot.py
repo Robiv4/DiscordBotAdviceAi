@@ -29,4 +29,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTQyMzcwNTU5ODMwMTgzMTIwOQ.Gc6kOa.WI6YuuoOqie-dzDnjYTIIbzCj86g6sxBeBdfb4')
+client.run('DC-BOT-TOKEN')
